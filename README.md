@@ -33,7 +33,7 @@
       alt="Neovim"                                                                                            
       height="80"                                                                                             
       width="80"                                                                                              
-  <a/>
+  </a>
 </p>                                                                                                          
 <p>                                                                                                           
   <img                                                                                                        

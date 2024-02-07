@@ -22,29 +22,29 @@
     <img                                                                                                      
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"            
       alt="java"                                                                                              
-      width="40"                                                                                              
-      height="40"                                                                                             
+      width="80"                                                                                              
+      height="80"                                                                                             
     />                                                                                                        
   </a>                                                                                                        
   <a href="https://www.lua.org/" target="_blank">                                                             
     <img                                                                                                      
-      src="https://user-images.githubusercontent.com/74944536/206944711-fba1db9e-344f-404d-a94a-942040b151e9.s
+      src="https://de.wikipedia.org/wiki/Lua#/media/Datei:Lua-Logo.svg"
       alt="Lua"                                                                                               
-      width="40"                                                                                              
-      height="40"                                                                                             
+      width="80"                                                                                              
+      height="80"                                                                                             
     /> </a                                                                                                    
   <a href="https://github.com/neovim/neovim" target="_blank">                                                 
     <img                                                                                                      
       align="center"                                                                                          
       src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png"                   
       alt="Neovim"                                                                                            
-      height="40"                                                                                             
-      width="40"                                                                                              
+      height="80"                                                                                             
+      width="80"                                                                                              
   /></a>                                                                                                      
   <a href="https://code.visualstudio.com/" target="_blank">                                                   
     <img                                                                                                      
       align="center"                                                                                          
-      src="https://user-images.githubusercontent.com/74944536/230710851-876d8289-37bd-4d24-9e37-f71568721e00.p
+      src=""
       alt="Visual Studio Code"                                                                                
       height="40"                                                                                             
       width="40"                                                                                              

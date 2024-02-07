@@ -26,13 +26,6 @@
       height="80"                                                                                             
     />                                                                                                        
   </a>                                                                                                        
-  <a href="https://www.lua.org/" target="_blank">                                                             
-    <img                                                                                                      
-      src="https://de.wikipedia.org/wiki/Lua#/media/Datei:Lua-Logo.svg"
-      alt="Lua"                                                                                               
-      width="80"                                                                                              
-      height="80"                                                                                             
-    /> </a                                                                                                    
   <a href="https://github.com/neovim/neovim" target="_blank">                                                 
     <img                                                                                                      
       align="center"                                                                                          

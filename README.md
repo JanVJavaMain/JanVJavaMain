@@ -16,7 +16,7 @@
 🌱 I’m currently learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
 💬 Ask me about Neovim and Java.                              
 ⚡ Fun fact: I'm German.
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools & Languages:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"            

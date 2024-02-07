@@ -25,6 +25,7 @@
       height="80"
     />
   </a>
+<p>
   <a href="https://github.com/neovim/neovim" target="_blank">
     <img
       align="center"
@@ -56,4 +57,3 @@
   />
 </p>
 > There isn't such thing as bad weather, just occasionally the wrong clothing.
-

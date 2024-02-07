@@ -40,15 +40,7 @@
       alt="Neovim"                                                                                            
       height="80"                                                                                             
       width="80"                                                                                              
-  /></a>                                                                                                      
-  <a href="https://code.visualstudio.com/" target="_blank">                                                   
-    <img                                                                                                      
-      align="center"                                                                                          
-      src=""
-      alt="Visual Studio Code"                                                                                
-      height="40"                                                                                             
-      width="40"                                                                                              
-  /></a>                                                                                                      
+  <a/>
 </p>                                                                                                          
 <p>                                                                                                           
   <img                                                                                                        

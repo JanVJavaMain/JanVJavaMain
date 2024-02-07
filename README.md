@@ -12,9 +12,9 @@
 </p>
 <h1 align="center">Hello 👋, I'm Jan V.</h1>
 <h3 align="center">A highschool student.</h3>
-🔭 I’m currently working on my coding basics. 
-🌱 I’m currently learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
-💬 Ask me about Neovim and Java.                              
+🔭 Working on my coding basics. 
+🌱 Learning Java, C, HTML, Haskell, JavaScript, CSS and Python.
+💬 You can always ask me about Neovim and Java.                              
 ⚡ Fun fact: I'm German.
 <h3 align="left">Tools & Languages:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
